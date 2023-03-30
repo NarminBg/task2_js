@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    margin:20% 0 0 45%;
+}
+
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 6px;
+    border:  1px solid rgb(205, 165, 189);
+}
+
+button{
+    width: 80px;
+    height: 40px;
+    background-color:rgb(172, 197, 206);
+    border-color:rgb(172, 197, 206);
+    border-radius: 6px;
+    cursor: pointer;
+    color: #000;
+}
